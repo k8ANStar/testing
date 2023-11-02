@@ -1,3 +1,0 @@
-# Another test upload
-
-## Kate
